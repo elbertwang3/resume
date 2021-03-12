@@ -1,0 +1,224 @@
+@font-face {
+  font-family: "Atlas Grotesk";
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-Bold.eot");
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Bold.woff2") format("woff2"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Bold.woff") format("woff"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Bold.ttf") format("truetype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Bold.svg#AtlasGrotesk-Bold")
+      format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Atlas Grotesk";
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-BoldItalic.eot");
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-BoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-BoldItalic.woff2") format("woff2"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-BoldItalic.woff") format("woff"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-BoldItalic.ttf") format("truetype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-BoldItalic.svg#AtlasGrotesk-BoldItalic")
+      format("svg");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Atlas Grotesk";
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-Black.eot");
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-Black.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Black.woff2") format("woff2"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Black.woff") format("woff"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Black.ttf") format("truetype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Black.svg#AtlasGrotesk-Black")
+      format("svg");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Atlas Grotesk";
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-BlackItalic.eot");
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-BlackItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-BlackItalic.woff2") format("woff2"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-BlackItalic.woff") format("woff"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-BlackItalic.ttf") format("truetype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-BlackItalic.svg#AtlasGrotesk-BlackItalic")
+      format("svg");
+  font-weight: 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Atlas Grotesk";
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-Light.eot");
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Light.woff2") format("woff2"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Light.woff") format("woff"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Light.ttf") format("truetype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Light.svg#AtlasGrotesk-Light")
+      format("svg");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Atlas Grotesk";
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-MediumItalic.eot");
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-MediumItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-MediumItalic.woff2") format("woff2"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-MediumItalic.woff") format("woff"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-MediumItalic.ttf") format("truetype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-MediumItalic.svg#AtlasGrotesk-MediumItalic")
+      format("svg");
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Atlas Grotesk";
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-LightItalic.eot");
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-LightItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-LightItalic.woff2") format("woff2"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-LightItalic.woff") format("woff"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-LightItalic.ttf") format("truetype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-LightItalic.svg#AtlasGrotesk-LightItalic")
+      format("svg");
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Atlas Grotesk";
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-RegularItalic.eot");
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-RegularItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-RegularItalic.woff2") format("woff2"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-RegularItalic.woff") format("woff"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-RegularItalic.ttf")
+      format("truetype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-RegularItalic.svg#AtlasGrotesk-RegularItalic")
+      format("svg");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Atlas Grotesk";
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-Regular.eot");
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Regular.woff2") format("woff2"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Regular.woff") format("woff"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Regular.ttf") format("truetype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Regular.svg#AtlasGrotesk-Regular")
+      format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Atlas Grotesk";
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-Medium.eot");
+  src: url("./fonts/AtlasGrotesk/AtlasGrotesk-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Medium.woff2") format("woff2"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Medium.woff") format("woff"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Medium.ttf") format("truetype"),
+    url("./fonts/AtlasGrotesk/AtlasGrotesk-Medium.svg#AtlasGrotesk-Medium")
+      format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Tiempos Text";
+  src: url("./fonts/Tiempos/TiemposText-BoldItalic.eot");
+  src: local("Tiempos Text Bold Italic"), local("TiemposText-BoldItalic"),
+    url("./fonts/Tiempos/TiemposText-BoldItalic.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/Tiempos/TiemposText-BoldItalic.woff") format("woff"),
+    url("./fonts/Tiempos/TiemposText-BoldItalic.ttf") format("truetype");
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Tiempos Headline";
+  src: url("./fonts/Tiempos/TiemposHeadline-Black.eot");
+  src: local("Tiempos Headline Black"), local("TiemposHeadline-Black"),
+    url("./fonts/Tiempos/TiemposHeadline-Black.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/Tiempos/TiemposHeadline-Black.woff") format("woff"),
+    url("./fonts/Tiempos/TiemposHeadline-Black.ttf") format("truetype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Tiempos Headline";
+  src: url("./fonts/Tiempos/TiemposHeadline-Medium.eot");
+  src: local("Tiempos Headline Medium"), local("TiemposHeadline-Medium"),
+    url("./fonts/Tiempos/TiemposHeadline-Medium.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/Tiempos/TiemposHeadline-Medium.woff") format("woff"),
+    url("./fonts/Tiempos/TiemposHeadline-Medium.ttf") format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Tiempos Text";
+  src: url("./fonts/Tiempos/TiemposText-Regular.eot");
+  src: local("Tiempos Text Regular"), local("TiemposText-Regular"),
+    url("./fonts/Tiempos/TiemposText-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/Tiempos/TiemposText-Regular.woff") format("woff"),
+    url("./fonts/Tiempos/TiemposText-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Tiempos Text";
+  src: url("./fonts/Tiempos/TiemposText-Italic.eot");
+  src: local("Tiempos Text Italic"), local("TiemposText-Italic"),
+    url("./fonts/Tiempos/TiemposText-Italic.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/Tiempos/TiemposText-Italic.woff") format("woff"),
+    url("./fonts/Tiempos/TiemposText-Italic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Tiempos Headline";
+  src: url("./fonts/Tiempos/TiemposHeadline-Light.eot");
+  src: local("Tiempos Headline Light"), local("TiemposHeadline-Light"),
+    url("./fonts/Tiempos/TiemposHeadline-Light.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/Tiempos/TiemposHeadline-Light.woff") format("woff"),
+    url("./fonts/Tiempos/TiemposHeadline-Light.ttf") format("truetype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Tiempos Text";
+  src: url("./fonts/Tiempos/TiemposText-Bold.eot");
+  src: local("Tiempos Text Bold"), local("TiemposText-Bold"),
+    url("./fonts/Tiempos/TiemposText-Bold.eot?#iefix")
+      format("embedded-opentype"),
+    url("./fonts/Tiempos/TiemposText-Bold.woff") format("woff"),
+    url("./fonts/Tiempos/TiemposText-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
