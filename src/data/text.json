@@ -1,0 +1,92 @@
+{
+  "work": [
+    {
+      "employer": "Levi Strauss & Co.",
+      "title": "Data Visualization Developer",
+      "location": "San Francisco, CA",
+      "date": "Jan. 2021–present",
+      "description": [
+        "Build data visualization applications and decision support tools to communicate data-driven insights and make data accessible and actionable for business leaders and domain experts"
+      ]
+    },
+    {
+      "employer": "The Wall Street Journal",
+      "title": "Graphics Developer",
+      "location": "New York, NY",
+      "date": "Jan. 2019–Jan. 2021",
+      "description": [
+        "Tell stories with <a href=\"https://www.wsj.com/articles/what-happens-if-sat-scores-consider-adversity-11574773201\">data visualization</a>, <a href=\"https://www.wsj.com/graphics/coronavirus-mutations-map-the-global-outbreak/\">maps</a>, <a href=\"https://www.wsj.com/graphics/nest-egg-game/\">games</a>, and <a href=\"https://www.wsj.com/articles/tested-positive-for-coronavirus-antibodies-dont-let-your-guard-down-11591794007\">news apps</a> on the <a href=\"https://graphics.wsj.com/\">graphics team</a> for breaking news and features online and in print"
+      ]
+    },
+    {
+      "employer": "Freelance",
+      "title": "Developer, Data Visualization",
+      "location": "New York, NY",
+      "date": "Jan. 2019–present",
+      "description": [
+        "Freelance development and data visualization for clients including the <a href=\"https://datatopics.worldbank.org/sdgatlas/\">World Bank</a>, <a href=\"https://vis.sciencemag.org/periodic-table/\">Science Magazine</a>, and Dotdash"
+      ]
+    },
+    {
+      "employer": "CUNY Graduate School of Journalism",
+      "title": "Adjunct Lecturer",
+      "location": "New York, NY",
+      "date": "Aug. 2019–May 2020",
+      "description": [
+        "Teach journalism students how to use HTML, CSS, and data to tell stories on the web"
+      ]
+    },
+    {
+      "employer": "The Texas Tribune",
+      "title": "Data Visuals Fellow",
+      "location": "Austin, TX",
+      "date": "Aug.–Dec. 2018",
+      "description": [
+        "Covered the 2018 midterms with the data visuals team, producing visual stories on <a href=\"https://www.texastribune.org/2018/12/07/texas-voter-turnout-sixth-highest-increase-2018-midterms/\">voter</a> <a href=\"https://apps.texastribune.org/features/2018/general-election-early-voting/\">turnout</a>, <a href=\"https://www.texastribune.org/2018/09/13/texas-poverty-census-2017-lowest-levels-decade/\">demographics</a>, and <a href=\"https://apps.texastribune.org/features/2018/texas-migrant-children-shelters/\">immigration</a>"
+      ]
+    },
+    {
+      "employer": "San Francisco Chronicle",
+      "title": "Digital/Interactive Intern",
+      "location": "San Francisco, CA",
+      "date": "June–Aug. 2018",
+      "description": [
+        "Built newsroom tools and graphics on the interactives team, including a module to drive recirculation and a story template for timelines"
+      ]
+    },
+    {
+      "employer": "Dremio",
+      "title": "Data Journalist",
+      "location": "Mountain View, CA",
+      "date": "Jan.–May 2018",
+      "description": [
+        "Analyzed large datasets using company’s enterprise SQL platform to write <a href=\"https://www.dremio.com/serena/\">visual</a> <a href=\"https://www.dremio.com/bee/\">stories</a> and tutorials driving interest in company’s product"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "Brown University",
+      "title": "B.A. in Computer Science and in Classics",
+      "location": "Providence, RI",
+      "date": "Aug. 2013–May 2017",
+      "description": [
+        "Taught introductory CS curriculum for orientation <a href=\"https://mosaic-plus-brown.github.io/mosaic/\">program</a> targeting minorities in STEM, edited papers as a writing fellow, managed finances for the college radio station WBRU"
+      ]
+    }
+  ],
+  "skills": {
+    "Languages": "JavaScript, HTML, CSS, Python, SQL, Java",
+    "Libraries/Frameworks": "D3.js, Svelte, React, Node, Pandas",
+    "Tools": "Git, Jupyter, ArchieML, ai2html, Adobe Illustrator, Webpack, Mapbox",
+    "Other": "Writing, reporting, editing, teaching, mentoring"
+  },
+  "contact": {
+    "name": "Elbert Wang",
+    "phone": "(626) 200-9623",
+    "email": "<a href=\"mailto:elbertwang1@gmail.com\">elbertwang1@gmail.com</a>",
+    "portfolio": "<a href=\"http://elbertwang.com/\">elbertwang.com</a>",
+    "twitter": "<a href=\"https://twitter.com/elbertwang1\">@elbertwang1</a>",
+    "github": "<a href=\"https://github.com/elbertwang3\">elbertwang3</a>"
+  }
+}
