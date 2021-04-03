@@ -15,12 +15,12 @@
       "location": "New York, NY",
       "date": "Jan. 2019–Jan. 2021",
       "description": [
-        "Tell stories with <a href=\"https://www.wsj.com/articles/what-happens-if-sat-scores-consider-adversity-11574773201\">data visualization</a>, <a href=\"https://www.wsj.com/graphics/coronavirus-mutations-map-the-global-outbreak/\">maps</a>, <a href=\"https://www.wsj.com/graphics/nest-egg-game/\">games</a>, and <a href=\"https://www.wsj.com/articles/tested-positive-for-coronavirus-antibodies-dont-let-your-guard-down-11591794007\">news apps</a> on the <a href=\"https://graphics.wsj.com/\">graphics team</a> for breaking news and features online and in print"
+        "Tell stories with <a href=\"https://www.wsj.com/articles/what-happens-if-sat-scores-consider-adversity-11574773201\">data visualization</a>, <a href=\"https://www.wsj.com/graphics/coronavirus-mutations-map-the-global-outbreak/\">maps</a>, <a href=\"https://www.wsj.com/graphics/nest-egg-game/\">games</a>, <a href=\"https://www.wsj.com/graphics/are-electric-cars-really-better-for-the-environment/\">visual explainers</a>, and <a href=\"https://www.wsj.com/articles/tested-positive-for-coronavirus-antibodies-dont-let-your-guard-down-11591794007\">news apps</a> on the <a href=\"https://graphics.wsj.com/\">graphics team</a> for breaking news and features online and in print"
       ]
     },
     {
       "employer": "Freelance",
-      "title": "Developer, Data Visualization",
+      "title": "Data Visualization Developer",
       "location": "New York, NY",
       "date": "Jan. 2019–present",
       "description": [
@@ -42,7 +42,7 @@
       "location": "Austin, TX",
       "date": "Aug.–Dec. 2018",
       "description": [
-        "Covered the 2018 midterms with the data visuals team, producing visual stories on <a href=\"https://www.texastribune.org/2018/12/07/texas-voter-turnout-sixth-highest-increase-2018-midterms/\">voter</a> <a href=\"https://apps.texastribune.org/features/2018/general-election-early-voting/\">turnout</a>, <a href=\"https://www.texastribune.org/2018/09/13/texas-poverty-census-2017-lowest-levels-decade/\">demographics</a>, and <a href=\"https://apps.texastribune.org/features/2018/texas-migrant-children-shelters/\">immigration</a>"
+        "Covered the 2018 midterms with the data visuals <a href=\"https://www.texastribune.org/series/news-apps-graphics-databases/\">team</a>, producing visual stories on <a href=\"https://www.texastribune.org/2018/12/07/texas-voter-turnout-sixth-highest-increase-2018-midterms/\">voter</a> <a href=\"https://apps.texastribune.org/features/2018/general-election-early-voting/\">turnout</a>, <a href=\"https://www.texastribune.org/2018/09/13/texas-poverty-census-2017-lowest-levels-decade/\">demographics</a>, and <a href=\"https://apps.texastribune.org/features/2018/texas-migrant-children-shelters/\">immigration</a>"
       ]
     },
     {
@@ -60,7 +60,7 @@
       "location": "Mountain View, CA",
       "date": "Jan.–May 2018",
       "description": [
-        "Analyzed large datasets using company’s enterprise SQL platform to write <a href=\"https://www.dremio.com/serena/\">visual</a> <a href=\"https://www.dremio.com/bee/\">stories</a> and tutorials driving interest in company’s product"
+        "Analyzed large datasets using company’s enterprise SQL <a href=\"https://www.dremio.com/\">platform</a> to write <a href=\"https://www.dremio.com/serena/\">visual</a> <a href=\"https://www.dremio.com/bee/\">stories</a> and tutorials driving interest in company’s product"
       ]
     }
   ],
@@ -71,7 +71,7 @@
       "location": "Providence, RI",
       "date": "Aug. 2013–May 2017",
       "description": [
-        "Taught introductory CS curriculum for orientation <a href=\"https://mosaic-plus-brown.github.io/mosaic/\">program</a> targeting minorities in STEM, edited papers as a writing fellow, managed finances for the college radio station WBRU"
+        "Taught introductory CS curriculum for orientation <a href=\"https://mosaic-plus-brown.github.io/mosaic/\">program</a> targeting minorities in STEM, edited papers as a <a href=\"https://www.brown.edu/sheridan/programs-services/writing/writing-fellows-program\">writing fellow</a>, managed finances for the college radio station <a href=\"https://www.wbru.com/\">WBRU</a>"
       ]
     }
   ],
@@ -79,7 +79,7 @@
     "Languages": "JavaScript, HTML, CSS, Python, SQL, Java",
     "Libraries/Frameworks": "D3.js, Svelte, React, Node, Pandas",
     "Tools": "Git, Jupyter, ArchieML, ai2html, Adobe Illustrator, Webpack, Mapbox",
-    "Other": "Writing, reporting, editing, teaching, mentoring"
+    "Other": "Writing, editing, teaching, mentoring"
   },
   "contact": {
     "name": "Elbert Wang",
