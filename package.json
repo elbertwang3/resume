@@ -8,7 +8,7 @@
     "start": "sirv public",
     "data:fetch": "node scripts/fetch-data.js",
     "predeploy": "npm run build",
-    "deploy": "rollup -c rollup.config-ssr.js"
+    "deploy": "rollup -c rollup.config-ssr.js && cp -r ssr/* docs"
   },
   "devDependencies": {
     "@newswire/doc-to-archieml": "^1.0.0",
