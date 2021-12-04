@@ -4,6 +4,7 @@
   import Section from "./Section.svelte";
 
   const { contact, work, education, skills } = data;
+  console.log(data)
 </script>
 
 <div class="resume">

@@ -1,10 +1,19 @@
 {
   "work": [
     {
+      "employer": "Lex Machina",
+      "title": "Software Engineer, Data Visualization",
+      "location": "San Francisco, CA",
+      "date": "Dec. 2021–present",
+      "description": [
+        "Conceptualize and develop data visualizations based on case data that help law firms and companies analyze courts and judges, evaluate opposing counsel and parties, and craft litigation strategies"
+      ]
+    },
+    {
       "employer": "Levi Strauss & Co.",
       "title": "Data Visualization Developer",
       "location": "San Francisco, CA",
-      "date": "Jan. 2021–present",
+      "date": "Jan. 2021–Dec. 2021",
       "description": [
         "Build data visualization applications and decision support tools to communicate data-driven insights and make data accessible and actionable for business leaders and domain experts"
       ]
@@ -15,16 +24,16 @@
       "location": "New York, NY",
       "date": "Jan. 2019–Jan. 2021",
       "description": [
-        "Tell stories with <a href=\"https://www.wsj.com/articles/what-happens-if-sat-scores-consider-adversity-11574773201\">data visualization</a>, <a href=\"https://www.wsj.com/graphics/coronavirus-mutations-map-the-global-outbreak/\">maps</a>, <a href=\"https://www.wsj.com/graphics/nest-egg-game/\">games</a>, and <a href=\"https://www.wsj.com/articles/tested-positive-for-coronavirus-antibodies-dont-let-your-guard-down-11591794007\">news apps</a> on the <a href=\"https://graphics.wsj.com/\">graphics team</a> for breaking news and features online and in print"
+        "Tell stories with <a href=\"https://www.wsj.com/articles/what-happens-if-sat-scores-consider-adversity-11574773201\">data visualization</a>, <a href=\"https://www.wsj.com/graphics/coronavirus-mutations-map-the-global-outbreak/\">maps</a>, <a href=\"https://www.wsj.com/graphics/nest-egg-game/\">games</a>, <a href=\"https://www.wsj.com/graphics/are-electric-cars-really-better-for-the-environment/\">visual explainers</a>, and <a href=\"https://www.wsj.com/articles/tested-positive-for-coronavirus-antibodies-dont-let-your-guard-down-11591794007\">news apps</a> on the <a href=\"https://graphics.wsj.com/\">graphics team</a> for breaking news and features online and in print"
       ]
     },
     {
       "employer": "Freelance",
-      "title": "Developer, Data Visualization",
+      "title": "Data Visualization Developer",
       "location": "New York, NY",
       "date": "Jan. 2019–present",
       "description": [
-        "Freelance development and data visualization for clients including the <a href=\"https://datatopics.worldbank.org/sdgatlas/\">World Bank</a>, <a href=\"https://vis.sciencemag.org/periodic-table/\">Science Magazine</a>, and Dotdash"
+        "Freelance development and data visualization for clients including the <a href=\"https://datatopics.worldbank.org/sdgatlas/\">World Bank</a>, <a href=\"https://vis.sciencemag.org/periodic-table/\">Science Magazine</a>, <a href=\"https://sfstandard.com/sfs-budget-in-4-charts-the-pandemic-effect-on-city-finances-and-the-prospects-for-recovery/\">The San Francisco Standard</a> and Dotdash"
       ]
     },
     {
@@ -37,30 +46,12 @@
       ]
     },
     {
-      "employer": "The Texas Tribune",
-      "title": "Data Visuals Fellow",
-      "location": "Austin, TX",
-      "date": "Aug.–Dec. 2018",
-      "description": [
-        "Covered the 2018 midterms with the data visuals team, producing visual stories on <a href=\"https://www.texastribune.org/2018/12/07/texas-voter-turnout-sixth-highest-increase-2018-midterms/\">voter</a> <a href=\"https://apps.texastribune.org/features/2018/general-election-early-voting/\">turnout</a>, <a href=\"https://www.texastribune.org/2018/09/13/texas-poverty-census-2017-lowest-levels-decade/\">demographics</a>, and <a href=\"https://apps.texastribune.org/features/2018/texas-migrant-children-shelters/\">immigration</a>"
-      ]
-    },
-    {
-      "employer": "San Francisco Chronicle",
-      "title": "Digital/Interactive Intern",
-      "location": "San Francisco, CA",
-      "date": "June–Aug. 2018",
-      "description": [
-        "Built newsroom tools and graphics on the interactives team, including a module to drive recirculation and a story template for timelines"
-      ]
-    },
-    {
       "employer": "Dremio",
       "title": "Data Journalist",
       "location": "Mountain View, CA",
       "date": "Jan.–May 2018",
       "description": [
-        "Analyzed large datasets using company’s enterprise SQL platform to write <a href=\"https://www.dremio.com/serena/\">visual</a> <a href=\"https://www.dremio.com/bee/\">stories</a> and tutorials driving interest in company’s product"
+        "Analyzed large datasets using company’s enterprise SQL <a href=\"https://www.dremio.com/\">platform</a> to write <a href=\"https://www.dremio.com/serena/\">visual</a> <a href=\"https://www.dremio.com/bee/\">stories</a> and tutorials driving interest in company’s product"
       ]
     }
   ],
@@ -71,7 +62,7 @@
       "location": "Providence, RI",
       "date": "Aug. 2013–May 2017",
       "description": [
-        "Taught introductory CS curriculum for orientation <a href=\"https://mosaic-plus-brown.github.io/mosaic/\">program</a> targeting minorities in STEM, edited papers as a writing fellow, managed finances for the college radio station WBRU"
+        "Taught introductory CS curriculum for orientation <a href=\"https://mosaic-plus-brown.github.io/mosaic/\">program</a> targeting minorities in STEM, edited papers as a <a href=\"https://www.brown.edu/sheridan/programs-services/writing/writing-fellows-program\">writing fellow</a>, managed finances for the college radio station <a href=\"https://www.wbru.com/\">WBRU</a>"
       ]
     }
   ],
@@ -79,7 +70,7 @@
     "Languages": "JavaScript, HTML, CSS, Python, SQL, Java",
     "Libraries/Frameworks": "D3.js, Svelte, React, Node, Pandas",
     "Tools": "Git, Jupyter, ArchieML, ai2html, Adobe Illustrator, Webpack, Mapbox",
-    "Other": "Writing, reporting, editing, teaching, mentoring"
+    "Other": "Writing, editing, teaching, mentoring"
   },
   "contact": {
     "name": "Elbert Wang",
