@@ -22,11 +22,13 @@
               {/if}
             </div>
             {#if d.description}
-              {#each d.description as d}
-                <p class="copy">
-                  {@html d}
-                </p>
-              {/each}
+              <ul>
+                {#each d.description as d}
+                  <li class="copy">
+                    {@html d}
+                  </li>
+                {/each}
+              </ul>
             {/if}
             {#if d.degrees}
               {#each d.degrees as d}
@@ -117,4 +119,10 @@
     font-size: 14px;
     line-height: 20px;
   }
+
+  ul {
+    margin: 0;
+    padding-left: 2rem;
+  }
+
 </style>

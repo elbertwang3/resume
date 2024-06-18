@@ -6,7 +6,8 @@
       "location": "San Francisco, CA",
       "date": "Dec. 2021–present",
       "description": [
-        "Conceptualize and develop data visualizations based on case data that help law firms and companies analyze courts and judges, evaluate opposing counsel and parties, and craft litigation strategies"
+        "Conceptualized, designed, and developed user-centric and reusable UI components and data visualizations helping law firms and companies understand what happens in litigation, using React, Python, ElasticSearch, PostgreSQL, and Figma",
+        "Improved product usability based on usage data from Heap and user feedback, implemented accessibility best practices, and provided design and product direction for teammates"
       ]
     },
     {
@@ -15,7 +16,7 @@
       "location": "San Francisco, CA",
       "date": "Jan. 2021–Dec. 2021",
       "description": [
-        "Build data visualization applications and decision support tools to communicate data-driven insights and make data accessible and actionable for business leaders and domain experts"
+        "Built data visualization applications and decision support tools to communicate data-driven insights and make data accessible and actionable for business leaders and domain experts"
       ]
     },
     {
@@ -24,7 +25,7 @@
       "location": "New York, NY",
       "date": "Jan. 2019–Jan. 2021",
       "description": [
-        "Tell stories with <a href=\"https://www.wsj.com/articles/what-happens-if-sat-scores-consider-adversity-11574773201\">data visualization</a>, <a href=\"https://www.wsj.com/graphics/coronavirus-mutations-map-the-global-outbreak/\">maps</a>, <a href=\"https://www.wsj.com/graphics/nest-egg-game/\">games</a>, <a href=\"https://www.wsj.com/graphics/are-electric-cars-really-better-for-the-environment/\">visual explainers</a>, and <a href=\"https://www.wsj.com/articles/tested-positive-for-coronavirus-antibodies-dont-let-your-guard-down-11591794007\">news apps</a> on the <a href=\"https://graphics.wsj.com/\">graphics team</a> for breaking news and features online and in print"
+        "Told stories with <a href=\"https://www.wsj.com/articles/what-happens-if-sat-scores-consider-adversity-11574773201\">data visualization</a>, <a href=\"https://www.wsj.com/graphics/coronavirus-mutations-map-the-global-outbreak/\">maps</a>, <a href=\"https://www.wsj.com/graphics/nest-egg-game/\">games</a>, <a href=\"https://www.wsj.com/graphics/are-electric-cars-really-better-for-the-environment/\">visual explainers</a>, and <a href=\"https://www.wsj.com/articles/tested-positive-for-coronavirus-antibodies-dont-let-your-guard-down-11591794007\">news apps</a> on the <a href=\"https://graphics.wsj.com/\">graphics team</a> for breaking news and features online and in print"
       ]
     },
     {
@@ -42,7 +43,7 @@
       "location": "New York, NY",
       "date": "Aug. 2019–May 2020",
       "description": [
-        "Teach journalism students how to use HTML, CSS, and data to tell stories on the web"
+        "Taught journalism students how to use HTML, CSS, and data to tell stories on the web"
       ]
     },
     {
@@ -67,9 +68,9 @@
     }
   ],
   "skills": {
-    "Languages": "JavaScript, HTML, CSS, Python, SQL, Java",
-    "Libraries/Frameworks": "D3.js, Svelte, React, Node, Pandas",
-    "Tools": "Git, Jupyter, ArchieML, ai2html, Adobe Illustrator, Webpack, Mapbox",
+    "Languages": "JavaScript, TypeScript, HTML, CSS, Python, SQL, Java",
+    "Libraries/Frameworks": "D3.js, React, Next.js, Svelte, ElasticSearch, Node, Pandas",
+    "Tools": "Git, Figma, Observable, Jupyter, Webpack, Mapbox",
     "Other": "Writing, editing, teaching, mentoring"
   },
   "contact": {

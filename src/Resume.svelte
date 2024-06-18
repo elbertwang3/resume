@@ -16,9 +16,9 @@
 
 <style>
   .resume {
-    width: 612px;
+    width: 716px;
     /* height: 792px; */
     margin: auto;
-    padding: 25px;
+    padding: 50px;
   }
 </style>
