@@ -6,8 +6,9 @@
       "location": "San Francisco, CA",
       "date": "Dec. 2021–present",
       "description": [
-        "Conceptualized, designed, and developed user-centric and reusable UI components and data visualizations helping law firms and companies understand what happens in litigation, using React, Python, ElasticSearch, PostgreSQL, and Figma",
-        "Improved product usability based on usage data from Heap and user feedback, implemented accessibility best practices, and provided design and product direction for teammates"
+        "Conceptualized, designed, and developed user-driven and reusable UI components and charts, helping law firms and companies understand what happens in litigation, using React, D3.js, Python, OpenSearch, PostgreSQL, and Figma",
+        "Built internal dashboard tool that monitors data crawling activity to detect anomalous patterns, using NextJS and Observable notebook for prototyping",
+        "Took design and technical ownership of data visualizations throughout the product, improved product usability based on usage data from Heap and user feedback, implemented accessibility best practices, and provided design and product direction for teammates"
       ]
     },
     {
@@ -69,7 +70,7 @@
   ],
   "skills": {
     "Languages": "JavaScript, TypeScript, HTML, CSS, Python, SQL, Java",
-    "Libraries/Frameworks": "D3.js, React, Next.js, Svelte, ElasticSearch, Node, Pandas",
+    "Libraries/Frameworks": "D3.js, React, Next.js, Svelte, OpenSearch, Node, Pandas",
     "Tools": "Git, Figma, Observable, Jupyter, Webpack, Mapbox",
     "Other": "Writing, editing, teaching, mentoring"
   },
