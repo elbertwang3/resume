@@ -1,14 +1,23 @@
 {
   "work": [
     {
+      "employer": "Robinhood",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco, CA",
+      "date": "Aug. 2025–present",
+      "description": [
+        "Built a sitewide impact dashboard for the internal experimentation platform used across Product and Data Science, standardizing ~40 company-critical metrics and surfacing the cumulative impact of experiments shipped in 2025, leveraging a Bayesian methodology developed in partnership with DS",
+        "Developed team management and experiment portfolio features, enabling teams to track experiments, manage members, and configure metrics and holdouts in a self-serve way\u000b*Collaborated on an LLM-powered chatbot that can analyze experiment scorecards, flag statistical issues (e.g. SRM), generate plain-language summaries, and suggest launch decisions, reducing manual analysis burden and speeding up experiment review cycles"
+      ]
+    },
+    {
       "employer": "Lex Machina",
       "title": "Software Engineer, Data Visualization",
       "location": "San Francisco, CA",
       "date": "Dec. 2021–present",
       "description": [
-        "Conceptualized, designed, and developed user-driven and reusable UI components and charts, helping law firms and companies understand what happens in litigation, using React, D3.js, Python, OpenSearch, PostgreSQL, and Figma",
-        "Built internal dashboard tool that monitors data crawling activity to detect anomalous patterns, using NextJS and Observable notebook for prototyping",
-        "Took design and technical ownership of data visualizations throughout the product, improved product usability based on usage data from Heap and user feedback, implemented accessibility best practices, and provided design and product direction for teammates"
+        "Conceptualized, designed, and developed UI components and visualizations for legal analytics, enabling law firms and companies to analyze litigation data and make informed case strategy decisions",
+        "Built an internal dashboard to monitor data crawling activity, partnering with the data engineering team to consolidate fragmented court collections, enabling proactive anomaly detection, improving data reliability, and reducing the risk of stale data for customers"
       ]
     },
     {
