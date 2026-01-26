@@ -19,6 +19,6 @@
     width: 716px;
     /* height: 792px; */
     margin: auto;
-    padding: 50px;
+    padding: 24px;
   }
 </style>

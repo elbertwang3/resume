@@ -6,8 +6,9 @@
       "location": "San Francisco, CA",
       "date": "Aug. 2025–present",
       "description": [
-        "Built a sitewide impact dashboard for the internal experimentation platform used across Product and Data Science, standardizing ~40 company-critical metrics and surfacing the cumulative impact of experiments shipped in 2025, leveraging a Bayesian methodology developed in partnership with DS",
-        "Developed team management and experiment portfolio features, enabling teams to track experiments, manage members, and configure metrics and holdouts in a self-serve way\u000b*Collaborated on an LLM-powered chatbot that can analyze experiment scorecards, flag statistical issues (e.g. SRM), generate plain-language summaries, and suggest launch decisions, reducing manual analysis burden and speeding up experiment review cycles"
+        "Built a sitewide impact dashboard for the internal experimentation platform used across Product and Data Science, standardizing ~40 company-critical metrics and surfacing the cumulative impact of experiments shipped in 2025",
+        "Developed team management and portfolio features, enabling teams to track experiments, manage members, and configure metrics and holdouts",
+        "Collaborated on an LLM-powered chatbot that can analyze experiment scorecards, flag statistical issues (e.g. SRM), generate summaries, and suggest launch decisions, reducing manual analysis and speeding up experiment cycles"
       ]
     },
     {
@@ -55,15 +56,6 @@
       "description": [
         "Taught journalism students how to use HTML, CSS, and data to tell stories on the web"
       ]
-    },
-    {
-      "employer": "Dremio",
-      "title": "Data Journalist",
-      "location": "Mountain View, CA",
-      "date": "Jan.–May 2018",
-      "description": [
-        "Analyzed large datasets using company’s enterprise SQL <a href=\"https://www.dremio.com/\">platform</a> to write <a href=\"https://www.dremio.com/serena/\">visual</a> <a href=\"https://www.dremio.com/bee/\">stories</a> and tutorials driving interest in company’s product"
-      ]
     }
   ],
   "education": [
@@ -79,7 +71,7 @@
   ],
   "skills": {
     "Languages": "JavaScript, TypeScript, HTML, CSS, Python, SQL, Java",
-    "Libraries/Frameworks": "D3.js, React, Next.js, Svelte, OpenSearch, Node, Pandas",
+    "Libraries/Frameworks": "D3.js, React, Django, Svelte, OpenSearch, Node, Pandas",
     "Tools": "Git, Figma, Observable, Jupyter, Webpack, Mapbox",
     "Other": "Writing, editing, teaching, mentoring"
   },
